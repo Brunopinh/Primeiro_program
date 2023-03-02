@@ -1,3 +1,11 @@
-*ibis{
+.teste{
     background-color: black;
+}
+
+.icone{
+    display: flexbox;
+  
+
+ 
+    display: inline-block;
 }
